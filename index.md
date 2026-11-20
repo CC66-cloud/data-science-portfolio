@@ -18,8 +18,6 @@ Based on the analysis, gender played a crucial role in survival. The visualizati
 
 ![Survival by Gender](https://github.com/CC66-cloud/data-science-project/blob/main/survival_by_gender.png?raw=true)
 
-*(Note: Please ensure you replace `[你的GitHub用户名]` in the image link above with your actual GitHub username!)*
-
 **Project Status:** Completed
 
 **[Click here to view the full Project Repository](https://github.com/CC66-cloud/data-science-project)**
